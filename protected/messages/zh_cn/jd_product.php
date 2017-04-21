@@ -1,0 +1,21 @@
+<?php
+return array(
+		'Ware Status Delete'									=>		'删除',
+		'Ware Status on Sale'									=>		'在售',
+		'Ware Status on Store'									=>		'在仓库',
+		'Ware Status Violation'									=>		'违规',
+		'Account Name'											=>		'账户名称',
+		'Ware Status'											=>		'商品状态',
+		'SKU'													=>		'SKU'	,
+		'Online SKU'											=>		'在线SKU',
+		'Sub SKU'												=>		'子SKU',
+		'Amount Count'											=>		'总数',
+		'Stock'													=>		'库存数',
+		'Has Stock'												=>		'是否有库存',
+		'Sale Stock Amount'										=>		'已售数量',
+		'Lock Count'											=>		'锁定数',
+		'Lock Start Time'										=>		'锁定开始时间',
+		'Lock End Time'											=>		'锁定结束时间',
+		'Supply Price'											=>		'供货价',
+		'Ware ID'												=>		'商品ID',
+		'Item Num'												=>		'货品编号'	);

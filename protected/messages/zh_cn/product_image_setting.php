@@ -1,0 +1,22 @@
+<?php
+return array(
+	'Account' 															=> '账号',
+	'Main Image Watermark' 												=> '主图水印',
+	'Additional Image Watermark' 										=> '附图水印',
+	'Watermark Postion'													=> '水印位置',
+	'Watermark Alpha'													=> '透明度',
+	'Filename Prefix'													=> '文件前缀',
+	'Filename Suffix'													=> '文件后缀',
+	'Watermark Picture'													=> '水印图片',
+	'Open'																=> '开启',
+	'Close'																=> '关闭',
+	'Upload Image'														=> '上传文件',
+	'Watermark Could Not Empty'											=> '水印图片不能为空',
+	'The Account OF Platform Has Exists'								=> '该平台和账号已经存在',
+	'Watermark View'													=> '查看水印',
+	'Watermark Postion X'												=> '水印横坐标位置',
+	'Watermark Postion Y'												=> '水印纵坐标位置',
+	'Modify'															=> '修改参数',
+	'Upload File Too Large'												=> '上传的文件太大',
+	'Upload File Type Error'											=> '上传文件的类型错误',
+);

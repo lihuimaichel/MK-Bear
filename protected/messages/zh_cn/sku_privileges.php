@@ -1,0 +1,20 @@
+<?php
+return array(
+	'Username'																				=> '用户名称',
+	'User Not Exists'																		=> '用户不存在',
+	'Sku'																					=> 'SKU',
+	'Title'																					=> '产品名称',
+	'Account'																				=> '账号',
+	'Platform Not Exists'																	=> '平台不存在',
+	'Add Sku Privileges'																	=> '分配SKU权限',
+	'Grant Privileges Successful'															=> '分配权限成功',
+	'Grant Privileges Failure'																=> '分配权限失败',
+	'Process Data Failure'																	=> '处理数据失败',
+	'Request Error, Please Try Again'														=> '请求失败，请重试',
+	'Grant Privileges'																		=> '分配权限',
+	'Grant Privileges By Search Condition'													=> '按搜索条件分配权限',
+	'Revoke Privileges By Search Condition'													=> '按搜索条件取消权限',
+	'No Search Condition'																	=> '没有搜索条件',
+	'Really want to Change SKU Privileges?'													=> '确定要修改SKU权限？',
+	'Change Privileges'																		=> '分配SKU权限',
+);

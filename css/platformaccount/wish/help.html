@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Untitled Document</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <style type="text/css">
+        p{
+          line-height: 24px;font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center" style="text-align:center;font-size:26px;height:40px;line-height:40px;">Wish平台授权过程</h1>
+    <p class="MsoNormal">Wish授权账号分两种，一种是开发者账号，一种是无开发者账号。这里只说无开发者账号的。</p>
+    <p class="MsoNormal">
+      <span>&nbsp;</span>
+    </p>
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:21.0pt;">
+      一、Wish后台创建应用
+    </p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+      找到设置里面API设置部分，创建一个APP，创建APP时需要填写APPName 和 Redirect Url , APPName可以随便自己填写，Redirect Url可以随便填写，务必以https://开头，带s，保存就可以创建好app数据，包括Client id、Client Secrect、Redirect Url，这几个数据在后续有用。
+    </p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+      <span>&nbsp;</span>
+    </p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;"><img width="702" height="662" src="/css/platformaccount/wish/11.jpg" /></p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;"><img width="777" height="551" src="/css/platformaccount/wish/12.jpg" /></p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+      <span>&nbsp;</span>
+    </p>
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:21.0pt;">
+      二、录入授权基础数据
+    </p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+      添加新账号:录入账号名称、简称、Client id、Client Secret、Redirect URI
+    </p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;"><img width="814" height="553" src="/css/platformaccount/wish/13.jpg" /></p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+      <span>&nbsp;</span>
+    </p>
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:21.0pt;">
+      三、授权
+    </p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+      点击跳转授权后，输入账号密码后，根据提示一步步提示
+    </p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;"><img width="887" height="226" src="/css/platformaccount/wish/14.jpg" /></p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+      <span>&nbsp;</span>
+    </p>
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:21.0pt;">四、回填code</p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">根据授权完成后跳转的一个页面，在地址栏中，复制code=后面的部分到系统code</p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;"><img width="993" height="846" src="/css/platformaccount/wish/15.jpg" /></p>
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:21.0pt;">
+      五、获取token
+    </p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;"><img width="888" height="585" src="/css/platformaccount/wish/16.jpg" /></p>
+    <p class="MsoNormal" style="margin-left:0cm;text-indent:21.0pt;">
+      六、完成授权
+    </p>
+    <p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+      提示获取token成功，关闭弹出层，完成授权。
+    </p>
+    <p class="MsoNormal">
+      <span>&nbsp;</span>
+    </p>
+</body>
+</html>

@@ -1,0 +1,1 @@
+<?php echo $this->renderPartial('_formeasy', array('action' => 'update')); ?>

@@ -1,0 +1,82 @@
+<?php
+return array(
+
+		/********************priceministerproductstatics.php*******************/
+		'Sku'															=> 'SKU',
+		'Product Category Id'  											=> '产品分类',
+		'Account Name'													=> '帐号',
+		'Product Status'												=> '产品状态',
+		'Product Is Bak'												=> '是否备货',
+		'Product Cost'													=> '产品成本',
+		'Is Online'														=> '是否在线',
+		'En Title'														=> '产品名称',
+		'Are You Sure to Publish?'										=> '确定要进行刊登吗？',
+		'Invalid Account'												=> '无效的账号',
+		'Product Is Multi'												=> '是否多属性',
+		'Is Display Variation'											=> '是否显示子SKU',
+		/********************priceministerproductstatics.php*******************/
+
+		/********************************************* 刊登 **************************************/
+		'Account Name'													=> '帐号名称',
+		'Listing Type'													=> '刊登类型',
+		'Price'															=> '价格',
+		'Status'														=> '状态',
+		'Modify User'													=> '修改人',
+		'Modify Time'													=> '修改时间',
+		'Respond Time'													=> '最后响应时间',
+		'Create Time'													=> '创建时间',
+		'Title'															=> '标题',
+		'Category Name'													=> '分类',
+		'Choose Add Info'                                               => '选择刊登信息',
+		'Product Images'                                				=> '产品主图',
+		'Accounts'                                     	 				=> '账号',
+		'Fill Add Information'                                      	=> '填写刊登资料',
+		'Not found the sku'												=> '没有找到该SKU',
+		'Account Not Valid'												=> '请选择帐号',
+		'SKU has not Exists'											=> '这个sku不存在',
+		'FixedFrice'													=> '一口价',
+		'Variation'														=> '多属性',
+		'Product Add List'												=> '保存都待刊登列表',
+		'Logistics Info'												=> '物流信息',
+		'Product Add Params'											=> '刊登参数',
+		'Image Info'													=> '图片信息',
+		'Base Info'														=> '基本信息',
+		'Sale Attribute'												=> '销售属性',
+		'Choose Category'												=> '请选择分类',
+		'Only Chose One Account'										=> '只能选择一个帐号',
+		'Main Images'													=> '主图',
+		'Additional Images'												=> '副图',
+		'Had upload the SKU'											=> '已上传过该SKU',
+		'Account Error'													=> '账号错误',
+		"No main image can't upload"                                   	=> '没有主图不能刊登',
+		'Param error'                                                   => '参数错误',
+		'The product add record not find' 								=> '这个产品添加记录没有找到',
+		'Only pending and failure status can modify' 					=> '只有待上传和失败的可以编辑',
+		'Product Add Failure'	 										=> '上传失败',
+    	'Product Add Successful' 										=> '上传成功',
+    	'Product Add Operating' 										=> '上传中',
+    	'Product Add Pending' 											=> '等待上传',
+    	'Listing FixedPrice Type' 										=> '一口价',
+    	'Listing Variation Type' 										=> '多属性',
+    	'Title or Description is empty, can not be uploaded to EBAY' 	=> '标题或描述为空,不能上传到EBAY!',
+    	'Price Error'													=> '价格错误',
+    	'Add Product Failure'											=> '添加产品出错',
+    	'Add Product Variation Failure'									=> '添加多属性SKU出错',
+    	'Exists Product Records'										=> '记录已经存在',
+		'Exist Product'													=> '产品在该账号已经存在',
+		'SKU Is Infringe'												=> '产品侵权',
+
+
+		/********************************************* 刊登 **************************************/
+
+		/********************************************* 产品管理 **************************************/
+		'Alias'														=> '类目',
+		'Caption'													=> '品牌',
+		'Shipping Price'											=> '运费',
+		'Son Sku'													=> '子sku',
+		'Sale Price'												=> '售价',
+		'Inventory'													=> '库存',
+		'Product Type'												=> '产品类型',
+
+		/********************************************* 产品管理 **************************************/
+);

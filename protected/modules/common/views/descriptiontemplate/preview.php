@@ -1,0 +1,1 @@
+<?php echo $model->template_content;?>
